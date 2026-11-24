@@ -152,6 +152,10 @@ vite.config.ts.timestamp-*
 .turbo
 
 # Nx (https://nx.dev/)
+
+# Additional
+.dev.vars
+.env*
 .nx/cache
 .nx/workspace-data
 .nx/migrate-runs
